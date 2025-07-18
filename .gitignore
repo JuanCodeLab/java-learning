@@ -21,7 +21,6 @@ out/
 *.DS_Store
 Thumbs.db
 
-# === ARCHIVOS DE CONFIGURACIÓN PERSONAL ===
+# === ARCHIVOS DE CONFIGURACIÓN PERSONAL ====
 *.iml
 .idea/
-
