@@ -1,1 +1,26 @@
-/bin/
+# === ARCHIVOS Y CARPETAS DE ECLIPSE ===
+.classpath
+.project
+.settings/
+
+# === ARCHIVOS Y CARPETAS DE VS CODE ===
+.vscode/
+
+# === ARCHIVOS DE COMPILACIÓN JAVA ===
+*.class
+bin/
+build/
+out/
+
+# === ARCHIVOS TEMPORALES O LOCALES ===
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# === ARCHIVOS DE CONFIGURACIÓN PERSONAL ====
+*.iml
+.idea/
